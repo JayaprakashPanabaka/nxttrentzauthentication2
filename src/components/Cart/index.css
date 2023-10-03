@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.cart-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 71vh;
+}
+
+.cart-image {
+  height: 200px;
+}
